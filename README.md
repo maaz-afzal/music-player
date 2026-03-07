@@ -31,7 +31,7 @@ A simple music player built with HTML, CSS, and JavaScript. It plays songs from 
 
 2. Go into the project folder:
    ```bash
-   cd "Music Player"
+   cd music-player
    ```
 
 3. Open `index.html` in your browser — that's it!
