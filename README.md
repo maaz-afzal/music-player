@@ -1,3 +1,5 @@
+<img width="1920" height="760" alt="image" src="https://github.com/user-attachments/assets/4aaf4558-9814-4822-9804-6ec7e2b159ca" />
+
 # 🎵 Music Player
 
 A simple music player built with HTML, CSS, and JavaScript. It plays songs from a local folder with basic controls — play, pause, previous, next, and a progress bar to jump to any part of the song.
